@@ -44,9 +44,9 @@ ALEPH 학습 과제와 학습 경험을 함께 살펴보고, 질문과 개선 �
 
 ## 학습자 GitHub 계정과 이름
 
-[Issue #10](https://github.com/aleph-learner-contributors/feedback/issues/10)에 본인이 남긴 이름을 기준으로 정리했습니다.
+[Issue #10](https://github.com/aleph-learner-contributors/feedback/issues/10)에 본인이 공개한 이름과, [peer-learning-agora](https://github.com/aleph-learner-contributors/peer-learning-agora)에서 학습자 계정으로 확인된 핸들을 정리했습니다. 이름은 본인이 공개 이슈에 직접 적은 경우에만 표시합니다. 이름 공개는 선택이며, `—`는 이 README에서 이름을 적지 않았다는 뜻입니다. 계정 간 동일인 여부는 추정하지 않았습니다.
 
-| GitHub 계정명 | 이름 |
+| GitHub 계정명 | 공개 이슈에 본인이 적은 이름 |
 | --- | --- |
 | `gsg920` | 공해성 |
 | `kimmj1234` | 김명제 |
@@ -58,3 +58,10 @@ ALEPH 학습 과제와 학습 경험을 함께 살펴보고, 질문과 개선 �
 | `Jin050310` | 조정진 |
 | `huigeun6011-prog` | 한희근 |
 | `JCG-0707` | 전창권 |
+| `DonRaegun` | 공해성 |
+| `Bjsandy119` | 백지석 |
+| `wjddncjf` | 정우철 |
+| `jcg-luck07` | 전창권 |
+| `Dong-DDack` | — |
+| `inseok5971` | — |
+| `newpy15` | — |
