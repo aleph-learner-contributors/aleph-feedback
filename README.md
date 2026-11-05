@@ -44,24 +44,26 @@ ALEPH 학습 과제와 학습 경험을 함께 살펴보고, 질문과 개선 �
 
 ## 학습자 GitHub 계정과 이름
 
-[Issue #10](https://github.com/aleph-learner-contributors/feedback/issues/10)에 본인이 공개한 이름과, [peer-learning-agora](https://github.com/aleph-learner-contributors/peer-learning-agora)에서 학습자 계정으로 확인된 핸들을 정리했습니다. 이름은 본인이 공개 이슈에 직접 적은 경우에만 표시합니다. 이름 공개는 선택이며, `—`는 이 README에서 이름을 적지 않았다는 뜻입니다. 계정 간 동일인 여부는 추정하지 않았습니다.
+이 명단은 [Issue #6](https://github.com/aleph-learner-contributors/aleph-feedback/issues/6), [Issue #9](https://github.com/aleph-learner-contributors/aleph-feedback/issues/9), [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10)의 참여 계정과 peer-learning-agora 학습자 계정 목록을 대조해 정리했습니다. 이름은 공개 이슈나 본인이 만든 공개 프로필·포트폴리오에 직접 표시된 내용을 사용했습니다. GitHub 프로필 표시명은 실명과 구분해 적었고, '강사 확인'은 강사가 계정과 이름의 연결을 확인한 경우입니다. 이름 공개는 선택이며, 서로 다른 핸들이 같은 사람인지는 추정하지 않았습니다.
 
-| GitHub 계정명 | 공개 이슈에 본인이 적은 이름 |
-| --- | --- |
-| `gsg920` | 공해성 |
-| `kimmj1234` | 김명제 |
-| `ILB72` | 김민석 |
-| `dydtjr2626` | 김용석 |
-| `khn0916` | 김하늘 |
-| `subinhappy777-hub` | 박수빈 |
-| `qpsxh80` | 조동준 |
-| `Jin050310` | 조정진 |
-| `huigeun6011-prog` | 한희근 |
-| `JCG-0707` | 전창권 |
-| `DonRaegun` | 공해성 |
-| `Bjsandy119` | 백지석 |
-| `wjddncjf` | 정우철 |
-| `jcg-luck07` | 전창권 |
-| `Dong-DDack` | — |
-| `inseok5971` | — |
-| `newpy15` | — |
+| GitHub 계정명 | 이름 또는 프로필 표시명 | 확인 근거 |
+| --- | --- | --- |
+| `gsg920` | 공해성 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `kimmj1234` | 김명제 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `ILB72` | 김민석 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `dydtjr2626` | 김용석 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `khn0916` | 김하늘 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `subinhappy777-hub` | 박수빈 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `qpsxh80` | 조동준 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `Jin050310` | 조정진 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `huigeun6011-prog` | 한희근 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `JCG-0707` | 전창권 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `DonRaegun` | 공해성 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `Bjsandy119` | 백지석 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `wjddncjf` | 정우철 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `jcg-luck07` | 전창권 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
+| `Dong-DDack` | 동딱 | [GitHub 프로필 표시명](https://github.com/Dong-DDack) |
+| `inseok5971` | 정인석 | 강사 확인 |
+| `newpy15` | 김도연 | [공개 포트폴리오](https://github.com/newpy15/newpy15.github.io) |
+| `JIeeeUI` | 최지의 | [공개 포트폴리오](https://github.com/JIeeeUI/my-portfolio) |
+| `chltngh031321` | 최수호 | [공개 자기소개](https://github.com/chltngh031321/my-intro-page) |
