@@ -48,7 +48,6 @@ ALEPH 학습 과제와 학습 경험을 함께 살펴보고, 질문과 개선 �
 
 | GitHub 계정명 | 이름 또는 프로필 표시명 | 확인 근거 |
 | --- | --- | --- |
-| `gsg920` | 공해성 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | `kimmj1234` | 김명제 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | `ILB72` | 김민석 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | `dydtjr2626` | 김용석 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
