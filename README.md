@@ -61,7 +61,7 @@ ALEPH 학습 과제와 학습 경험을 함께 살펴보고, 질문과 개선 �
 | `Bjsandy119` | 백지석 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | `wjddncjf` | 정우철 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
 | `jcg-luck07` | 전창권 | [Issue #10](https://github.com/aleph-learner-contributors/aleph-feedback/issues/10) |
-| `Dong-DDack` | 동딱 | [GitHub 프로필 표시명](https://github.com/Dong-DDack) |
+| `Dong-DDack` | 김동오 | 강사 확인 |
 | `inseok5971` | 정인석 | 강사 확인 |
 | `newpy15` | 김도연 | [공개 포트폴리오](https://github.com/newpy15/newpy15.github.io) |
 | `JIeeeUI` | 최지의 | [공개 포트폴리오](https://github.com/JIeeeUI/my-portfolio) |
